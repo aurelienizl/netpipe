@@ -99,7 +99,7 @@
 
    // return error check variable and macro
 
-int err;
+// int err;
 
 #define ERRCHECK( _ltrue, _format, _args...) do {         \
    if( _ltrue ) {                                   \
